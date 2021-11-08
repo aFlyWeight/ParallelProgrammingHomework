@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "生命游戏", "生命游戏\生命游戏.vcxproj", "{205DFEEB-B2D0-4454-9396-084AA5F4CF13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Debug|x64.ActiveCfg = Debug|x64
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Debug|x64.Build.0 = Debug|x64
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Debug|x86.ActiveCfg = Debug|Win32
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Debug|x86.Build.0 = Debug|Win32
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Release|x64.ActiveCfg = Release|x64
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Release|x64.Build.0 = Release|x64
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Release|x86.ActiveCfg = Release|Win32
+		{205DFEEB-B2D0-4454-9396-084AA5F4CF13}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58A687E-FE74-4B77-83C5-86D4EA7FB4F5}
+	EndGlobalSection
+EndGlobal

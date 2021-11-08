@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(生命游戏.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  生命游戏.cpp
+D:\并行作业\HW1\LifeGame\生命游戏\生命游戏.cpp(15,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  生命游戏.vcxproj -> D:\并行作业\HW1\LifeGame\x64\Debug\LifeGame.exe

@@ -1,0 +1,6 @@
+﻿  HW1.cpp
+D:\并行作业\HW1\HW1\HW1\HW1.cpp(19,9): warning C4101: “low_value”: 未引用的局部变量
+D:\并行作业\HW1\HW1\HW1\HW1.cpp(13,9): warning C4101: “first”: 未引用的局部变量
+D:\并行作业\HW1\HW1\HW1\HW1.cpp(15,9): warning C4101: “high_value”: 未引用的局部变量
+D:\并行作业\HW1\HW1\HW1\HW1.cpp(24,9): warning C4101: “proc_size”: 未引用的局部变量
+  HW1.vcxproj -> D:\并行作业\HW1\HW1\x64\Debug\HW1.exe

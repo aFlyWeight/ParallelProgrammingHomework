@@ -1,0 +1,3 @@
+﻿  9_7.cpp
+D:\并行作业\HW4\9_7\9_7\9_7.cpp(31,14): warning C4101: “worker_comm”: 未引用的局部变量
+  9_7.vcxproj -> D:\并行作业\HW4\9_7\x64\Debug\9_7.exe
